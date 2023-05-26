@@ -8,5 +8,7 @@ git commit -m "Personal Update"
 sleep 2
 git push -f
 sleep 2
+echo ""
 echo -n "Successfully Committed to Git!"
-sleep 2
+echo ""
+sleep 1
