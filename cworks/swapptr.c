@@ -1,6 +1,6 @@
 #include <stdio.h>
 void swap(int *a, int *b){
-	int *temp;			//pointer temp variable
+	int *temp = NULL;			//pointer temp variable
 	printf("Before Swapping:\n");
 	printf("\ta = %d b = %d\n", *a, *b);
 	temp = a;
