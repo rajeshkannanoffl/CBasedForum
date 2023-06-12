@@ -14,7 +14,7 @@ int main(){
 	printf("Enter A: ");
 	scanf("%d", &a);
 	printf("Enter B: ");
-        scanf("%d", &b);
+	scanf("%d", &b);
 	MaxMin(a,b,&max,&min);
 	printf("Maximum number is: %d\n", max);
 	printf("Minimum number is: %d\n", min);
